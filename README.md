@@ -5,7 +5,7 @@ Premium editorial website for the Dele Momodu Leadership Centre (DMLC), an intel
 - **Project:** Dele Momodu Leadership Centre Website
 - **Organisation:** DoubleU Innovation Centre
 - **Technical Implementation:** Jeremiah Segun Alayo
-- **Status:** Development
+- **Status:** Client review preview live
 
 ## Technology stack
 
@@ -38,7 +38,7 @@ npm run lint
 
 ## Deployment
 
-The project is configured for a private OpenAI Sites preview. The requested DoubleU Vercel project and official domain remain pending access and approval.
+The project has a public-by-link OpenAI Sites review deployment at https://dele-momodu-leadership-centre.tool-doubleu.chatgpt.site. The official domain and permanent client hosting remain pending.
 
 ## Current status
 
@@ -52,7 +52,6 @@ The first implementation includes the responsive homepage, supporting content ro
 - Confirmed event, news and library catalogue content
 - Approved social media links
 - DoubleU GitHub organisation repository access
-- DoubleU Vercel project access
 - Official domain
 
 This repository records implementation work without making claims beyond the stated organisational and technical roles.

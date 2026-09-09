@@ -16,7 +16,7 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://dele-momodu-leadership-centre.nifty-dune-3716.chatgpt.site'),
+  metadataBase: new URL('https://dele-momodu-leadership-centre.tool-doubleu.chatgpt.site'),
   title: {
     default: 'Dele Momodu Leadership Centre',
     template: '%s | DMLC',

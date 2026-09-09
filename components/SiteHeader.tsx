@@ -47,7 +47,15 @@ export function SiteHeader() {
           ))}
         </nav>
         <div className="flex items-center gap-3">
-          <Link href="/apply" className={`hidden min-h-11 items-center px-4 text-[11px] font-bold uppercase tracking-[.1em] transition-colors sm:inline-flex ${inverse ? 'bg-white text-[#0c2d26] hover:bg-[#efe8dc]' : 'bg-[#0c2d26] text-white hover:bg-[#16463b]'}`}>Apply now</Link>
+          <Link
+            href="/apply"
+            aria-label="Apply now"
+            style={{ color: inverse ? '#0c2d26' : '#ffffff' }}
+            className={`inline-flex min-h-11 items-center px-3 text-[10px] font-bold uppercase tracking-[.08em] transition-colors sm:px-4 sm:text-[11px] sm:tracking-[.1em] ${inverse ? 'bg-white hover:bg-[#efe8dc]' : 'bg-[#0c2d26] hover:bg-[#16463b]'}`}
+          >
+            <span className="sm:hidden">Apply</span>
+            <span className="hidden sm:inline">Apply now</span>
+          </Link>
           <button type="button" aria-expanded={open} aria-controls="mobile-menu" aria-label={open ? 'Close navigation' : 'Open navigation'} onClick={() => setOpen((value) => !value)} className="grid h-11 w-11 place-items-center xl:hidden">
             <span className="sr-only">Menu</span>
             <span className="relative h-4 w-6">

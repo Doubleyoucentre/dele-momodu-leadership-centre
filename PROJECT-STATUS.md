@@ -3,9 +3,9 @@
 **Project:** Dele Momodu Leadership Centre Website  
 **Organisation:** DoubleU Innovation Centre  
 **Technical Implementation:** Jeremiah Segun Alayo  
-**Current Phase:** Development  
+**Current Phase:** Development complete; deployment handoff pending  
 **Repository:** Pending / DoubleU/dele-momodu-leadership-centre  
-**Vercel:** Pending / URL  
+**Vercel:** Deployment attempted; upload handshake failed before a preview URL was issued  
 **Domain:** Pending
 
 ## COMPLETED
@@ -24,25 +24,26 @@
 - Base SEO metadata, canonical origin, robots, sitemap and organisation schema
 - Project README and status tracking
 
-## IN PROGRESS
+## COMPLETE
 
 - Review and organisation of the two supplied videos
 - Dependency installation and production build validation
-- Responsive and interaction testing
-- Private preview publication
+- Responsive and interaction testing across desktop and mobile breakpoints
+- Console and broken-image checks
 
 ## PENDING
 
 - DoubleU GitHub repository creation or access
-- DoubleU Vercel deployment access
+- Vercel preview URL / deployment retry after the upload service is reachable
 - Official domain connection
 - Live application backend integration
 - Future CMS integration for events and news
 
-## BLOCKED
+## BLOCKED / WAITING
 
 - Supplied homepage UI/UX reference image was not attached to this task
-- GitHub organisation and Vercel project credentials/access have not been supplied
+- GitHub organisation repository creation/access is not available through the current account
+- Vercel upload handshake failed before a preview URL was issued
 
 ## CONTENT NEEDED
 
@@ -66,7 +67,8 @@
 ## DEPLOYMENT
 
 - OpenAI Sites project registered for private preview
-- Requested Vercel preview pending DoubleU environment access
+- OpenAI Sites project registered for private preview; source/version upload is waiting on the file upload service
+- Vercel deployment attempted under the Doubleyou Innovation Centre team; no URL was issued because the upload handshake failed
 
 ## DOMAIN
 
@@ -74,4 +76,4 @@
 
 ## LAST UPDATE
 
-8 September 2026
+9 September 2026

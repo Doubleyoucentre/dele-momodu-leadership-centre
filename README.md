@@ -6,7 +6,9 @@ Premium editorial website for the Dele Momodu Leadership Centre (DMLC), an intel
 - **Organisation:** DoubleU Innovation Centre
 - **Technical Implementation:** Jeremiah Segun Alayo
 - **Implementation support:** CyberEdify and participating team members
-- **Status:** GitHub Pages review preparation; official launch pending
+- **Status:** GitHub Pages review live; official launch pending
+- **Review website:** https://doubleyoucentre.github.io/dele-momodu-leadership-centre/
+- **Repository:** https://github.com/Doubleyoucentre/dele-momodu-leadership-centre
 
 ## Project credits
 
@@ -48,7 +50,7 @@ npm run lint
 
 The preferred review host is GitHub Pages. Run `npm run build:pages` to create the static website in `out/`. The GitHub Actions workflow builds and publishes updates pushed to `main` after Pages is enabled for the repository.
 
-The earlier Sites preview remains available while the GitHub Pages deployment is being prepared. The official domain and permanent client hosting remain pending. A review preview is not the official launch and the application form does not submit data.
+The GitHub Pages review is live at https://doubleyoucentre.github.io/dele-momodu-leadership-centre/. The earlier Sites preview remains available but is no longer the preferred review link. The official domain and permanent client hosting remain pending. A review preview is not the official launch and the application form does not submit data.
 
 See [the GitHub Pages guide](docs/GITHUB-PAGES.md) for setup and manual commands,.
 
@@ -63,7 +65,6 @@ The first implementation includes the responsive homepage, supporting content ro
 - Residency application service, dates, deadlines, fees and supporting-document rules
 - Confirmed event, news and library catalogue content
 - Approved social media links
-- GitHub Pages publication and verification
 - Official domain
 
 This repository records implementation work without making claims beyond the stated organisational and technical roles.

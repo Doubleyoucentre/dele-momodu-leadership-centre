@@ -3,10 +3,13 @@
 **Project:** Dele Momodu Leadership Centre Website  
 **Organisation:** DoubleU Innovation Centre  
 **Technical Implementation:** Jeremiah Segun Alayo  
-**Current Phase:** GitHub Pages build validated; first publication in progress  
-**Repository:** https://github.com/Doubleyoucentre/dele-momodu-leadership-centre  
-**GitHub Pages:** https://doubleyoucentre.github.io/dele-momodu-leadership-centre/ (not yet verified live)  
-**Earlier Review Preview:** https://dele-momodu-leadership-centre.tool-doubleu.chatgpt.site  
+**Current Phase:** GitHub Pages review live; official launch pending
+
+**Repository:** https://github.com/Doubleyoucentre/dele-momodu-leadership-centre
+
+**GitHub Pages:** https://doubleyoucentre.github.io/dele-momodu-leadership-centre/
+
+**Earlier Review Preview:** https://dele-momodu-leadership-centre.tool-doubleu.chatgpt.site
 **Domain:** Pending
 
 ## COMPLETED
@@ -32,7 +35,6 @@
 
 ## PENDING
 
-- First GitHub Pages deployment and live verification
 - Official domain and client hosting provision/connection
 - Live application backend integration
 - Future CMS integration for events and news
@@ -66,6 +68,8 @@
 - OpenAI Sites project registered for client review
 - Public-by-link client review preview published successfully
 - GitHub Pages is the selected review host; Pages enabled with GitHub Actions as the source
+- First deployment succeeded on 9 September 2026: Actions run 34391461876, application commit 8e019b6
+- Live homepage verified in the browser; mobile and desktop Apply behavior checked against the same static build
 - Next.js 16.3.4 exports the existing React pages to `out/`; standard Vinext build retained
 - Ten content pages and 434 local links/assets passed static export verification
 - Header Apply remains visible while scrolling and now closes an open mobile menu

@@ -4,7 +4,7 @@
 
 Sign into GitHub as `JeremiahAlayo`. That personal account can act within organisations where it has permission. The planned DMLC repository is `Doubleyoucentre/dele-momodu-leadership-centre`, so the project sits with DoubleU while the personal account receives attribution for correctly identified commits. CyberEdify's implementation support is recorded in the README.
 
-The expected address is `https://doubleyoucentre.github.io/dele-momodu-leadership-centre/`. Treat this as a planned address until a successful Pages deployment and HTTP check are recorded in PROJECT-STATUS.md.
+The live review address is https://doubleyoucentre.github.io/dele-momodu-leadership-centre/. GitHub Actions run 34391461876 published the first Pages version successfully on 9 September 2026.
 
 ## Open the project in Git Bash
 

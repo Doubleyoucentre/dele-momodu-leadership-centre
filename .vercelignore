@@ -1,0 +1,5 @@
+public/videos
+public/images/source
+node_modules
+.next
+*.heic

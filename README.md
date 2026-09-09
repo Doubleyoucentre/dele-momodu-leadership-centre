@@ -5,7 +5,14 @@ Premium editorial website for the Dele Momodu Leadership Centre (DMLC), an intel
 - **Project:** Dele Momodu Leadership Centre Website
 - **Organisation:** DoubleU Innovation Centre
 - **Technical Implementation:** Jeremiah Segun Alayo
-- **Status:** Client review preview live
+- **Implementation support:** CyberEdify and participating team members
+- **Status:** GitHub Pages review preparation; official launch pending
+
+## Project credits
+
+This DMLC website project is undertaken through **DoubleU Innovation Centre**. **Jeremiah Segun Alayo** ([JeremiahAlayo](https://github.com/JeremiahAlayo)) leads the technical implementation, with implementation support from his company **CyberEdify** and its participating team members. These credits describe contributions; they do not change project ownership or establish a separate client contract.
+
+Individual team members should contribute through their own GitHub accounts. Record actual contributions in commits and pull requests; do not add invented co-authors. Public portfolio case studies should describe the person's or company's role accurately and use material approved for sharing.
 
 ## Technology stack
 
@@ -13,7 +20,8 @@ Premium editorial website for the Dele Momodu Leadership Centre (DMLC), an intel
 - React 19
 - Vinext / Next.js-compatible App Router
 - Tailwind CSS
-- OpenAI Sites deployment runtime
+- GitHub Pages static preview via Next.js
+- Existing Vinext / OpenAI Sites build retained for compatibility
 
 ## Source materials
 
@@ -38,7 +46,11 @@ npm run lint
 
 ## Deployment
 
-The project has a public-by-link OpenAI Sites review deployment at https://dele-momodu-leadership-centre.tool-doubleu.chatgpt.site. The official domain and permanent client hosting remain pending.
+The preferred review host is GitHub Pages. Run `npm run build:pages` to create the static website in `out/`. The GitHub Actions workflow builds and publishes updates pushed to `main` after Pages is enabled for the repository.
+
+The earlier Sites preview remains available while the GitHub Pages deployment is being prepared. The official domain and permanent client hosting remain pending. A review preview is not the official launch and the application form does not submit data.
+
+See [the GitHub Pages guide](docs/GITHUB-PAGES.md) for setup and manual commands,.
 
 ## Current status
 
@@ -51,7 +63,7 @@ The first implementation includes the responsive homepage, supporting content ro
 - Residency application service, dates, deadlines, fees and supporting-document rules
 - Confirmed event, news and library catalogue content
 - Approved social media links
-- DoubleU GitHub organisation repository access
+- GitHub Pages publication and verification
 - Official domain
 
 This repository records implementation work without making claims beyond the stated organisational and technical roles.

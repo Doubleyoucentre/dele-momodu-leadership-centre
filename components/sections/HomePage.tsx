@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from '@/components/SiteImage';
 import Link from 'next/link';
 import { Reveal } from '@/components/Reveal';
 import { Arrow } from '@/components/ui/Arrow';
@@ -25,7 +25,7 @@ export function HomePage() {
   return (
     <main id="main-content">
       <section className="relative min-h-[92svh] overflow-hidden bg-[#071d19] text-white">
-        <Image src="/images/hero/dmlc-aerial.jpg" alt="Aerial view of the Dele Momodu Leadership Centre surrounded by trees" fill priority sizes="100vw" className="hero-image object-cover object-[52%_50%]" />
+        <Image src="/images/hero/dmlc-aerial.jpg" alt="Aerial view of the Dele Momodu Leadership Centre surrounded by trees" fill preload sizes="100vw" className="hero-image object-cover object-[52%_50%]" />
         <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(7,29,25,.86)_0%,rgba(7,29,25,.54)_48%,rgba(7,29,25,.1)_78%),linear-gradient(0deg,rgba(7,29,25,.48),transparent_55%)]" />
         <div className="site-container relative flex min-h-[92svh] flex-col justify-end pb-10 pt-36 md:pb-12">
           <div className="hero-copy max-w-[920px]">

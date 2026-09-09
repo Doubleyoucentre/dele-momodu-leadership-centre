@@ -3,9 +3,10 @@
 **Project:** Dele Momodu Leadership Centre Website  
 **Organisation:** DoubleU Innovation Centre  
 **Technical Implementation:** Jeremiah Segun Alayo  
-**Current Phase:** Development complete; client review preview live  
-**Repository:** Pending / DoubleU/dele-momodu-leadership-centre  
-**Review Preview:** https://dele-momodu-leadership-centre.tool-doubleu.chatgpt.site  
+**Current Phase:** GitHub Pages build validated; first publication in progress  
+**Repository:** https://github.com/Doubleyoucentre/dele-momodu-leadership-centre  
+**GitHub Pages:** https://doubleyoucentre.github.io/dele-momodu-leadership-centre/ (not yet verified live)  
+**Earlier Review Preview:** https://dele-momodu-leadership-centre.tool-doubleu.chatgpt.site  
 **Domain:** Pending
 
 ## COMPLETED
@@ -31,7 +32,7 @@
 
 ## PENDING
 
-- DoubleU GitHub repository creation or access
+- First GitHub Pages deployment and live verification
 - Official domain and client hosting provision/connection
 - Live application backend integration
 - Future CMS integration for events and news
@@ -39,7 +40,7 @@
 ## BLOCKED / WAITING
 
 - Supplied homepage UI/UX reference image was not attached to this task
-- GitHub organisation repository creation/access is not available through the current account
+- No GitHub access blocker: JeremiahAlayo is authenticated and the organisation repository is created
 
 ## CONTENT NEEDED
 
@@ -64,7 +65,17 @@
 
 - OpenAI Sites project registered for client review
 - Public-by-link client review preview published successfully
-- Vercel deployment is optional while the official hosting provision remains pending
+- GitHub Pages is the selected review host; Pages enabled with GitHub Actions as the source
+- Next.js 16.3.4 exports the existing React pages to `out/`; standard Vinext build retained
+- Ten content pages and 434 local links/assets passed static export verification
+- Header Apply remains visible while scrolling and now closes an open mobile menu
+- README credits DoubleU Innovation Centre, Jeremiah Segun Alayo and CyberEdify
+- Git Bash instructions are in `docs/GITHUB-PAGES.md`
+
+## TECHNICAL FOLLOW-UP
+
+- Existing Vinext/server/tooling dependencies have npm audit advisories (including react-server-dom-webpack, image-size, undici and Vite). The Pages deployment uploads only static `out/` files and has no Node/React application server. Review and update the retained server/tooling stack before any future server-backed deployment; no broad forced dependency upgrade was applied during the Pages migration.
+- Earlier commits used a placeholder email and are preserved. New commits use JeremiahAlayo's GitHub noreply identity; README records the broader implementation credit without rewriting history.
 
 ## DOMAIN
 

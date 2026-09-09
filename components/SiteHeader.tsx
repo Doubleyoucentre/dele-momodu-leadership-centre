@@ -49,6 +49,7 @@ export function SiteHeader() {
         <div className="flex items-center gap-3">
           <Link
             href="/apply"
+            onClick={() => setOpen(false)}
             aria-label="Apply now"
             style={{ color: inverse ? '#0c2d26' : '#ffffff' }}
             className={`inline-flex min-h-11 items-center px-3 text-[10px] font-bold uppercase tracking-[.08em] transition-colors sm:px-4 sm:text-[11px] sm:tracking-[.1em] ${inverse ? 'bg-white hover:bg-[#efe8dc]' : 'bg-[#0c2d26] hover:bg-[#16463b]'}`}

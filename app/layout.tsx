@@ -3,6 +3,9 @@ import { Cormorant_Garamond, Manrope } from 'next/font/google';
 import './globals.css';
 import { SiteHeader } from '@/components/SiteHeader';
 import { Footer } from '@/components/Footer';
+import { siteUrl, publicAsset } from '@/lib/site-config';
+
+export const dynamic = 'force-static';
 
 const manrope = Manrope({
   variable: '--font-manrope',
@@ -16,7 +19,8 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://dele-momodu-leadership-centre.tool-doubleu.chatgpt.site'),
+  metadataBase: new URL(`${siteUrl}/`),
+  icons: { icon: publicAsset('/favicon.svg') },
   title: {
     default: 'Dele Momodu Leadership Centre',
     template: '%s | DMLC',
@@ -24,7 +28,6 @@ export const metadata: Metadata = {
   description:
     'A sanctuary for scholarship, research, leadership and ideas in Alalubosa GRA, Ibadan, Nigeria.',
   applicationName: 'Dele Momodu Leadership Centre',
-  alternates: { canonical: '/' },
   openGraph: {
     title: 'Dele Momodu Leadership Centre',
     description: 'A sanctuary for scholarship, research, leadership and ideas in Ibadan, Nigeria.',

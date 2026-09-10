@@ -20,7 +20,7 @@ const cormorant = Cormorant_Garamond({
 
 export const metadata: Metadata = {
   metadataBase: new URL(`${siteUrl}/`),
-  icons: { icon: publicAsset('/favicon.svg') },
+  icons: { icon: publicAsset('/images/brand/dmlc-icon.png'), apple: publicAsset('/images/brand/dmlc-icon.png') },
   title: {
     default: 'Dele Momodu Leadership Centre',
     template: '%s | DMLC',

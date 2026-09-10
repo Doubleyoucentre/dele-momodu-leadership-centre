@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 
-export function Reveal({ children, className = '', image = false, delay = 0 }: { children: React.ReactNode; className?: string; image?: boolean; delay?: number }) {
+export function Reveal({ children, className = '', image = false, delay = 0, id }: { children: React.ReactNode; className?: string; image?: boolean; delay?: number; id?: string }) {
   const ref = useRef<HTMLDivElement>(null);
   const [visible, setVisible] = useState(false);
 
@@ -20,7 +20,7 @@ export function Reveal({ children, className = '', image = false, delay = 0 }: {
   }, []);
 
   return (
-    <div ref={ref} style={{ transitionDelay: `${delay}ms` }} className={`${image ? 'reveal-image' : 'reveal'} ${visible ? 'is-visible' : ''} ${className}`}>
+    <div id={id} ref={ref} style={{ animationDelay: `${delay}ms` }} className={`${image ? 'reveal-image' : 'reveal'} ${visible ? 'is-visible' : ''} ${className}`}>
       {children}
     </div>
   );

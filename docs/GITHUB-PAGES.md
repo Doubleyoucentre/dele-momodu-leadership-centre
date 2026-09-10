@@ -2,7 +2,7 @@
 
 ## Accounts and credit
 
-Sign into GitHub as `JeremiahAlayo`. That personal account can act within organisations where it has permission. The planned DMLC repository is `Doubleyoucentre/dele-momodu-leadership-centre`, so the project sits with DoubleU while the personal account receives attribution for correctly identified commits. CyberEdify's implementation support is recorded in the README.
+Sign into GitHub as `JeremiahAlayo`. That personal account can act within organisations where it has permission. The DMLC repository is `Doubleyoucentre/dele-momodu-leadership-centre`: Doubleyou is the project home (frontier / hiring organisation, canonical repo and Pages — one source of truth). Jeremiah was hired by Doubleyou as lead developer. His company CyberEdify is credited as technical co-creator and delivery company, with a GitHub org link in the README.
 
 The live review address is https://doubleyoucentre.github.io/dele-momodu-leadership-centre/. GitHub Actions run 34391461876 published the first Pages version successfully on 9 September 2026.
 

@@ -1,11 +1,13 @@
 # DMLC Website — Project Status
 
 **Project:** Dele Momodu Leadership Centre Website  
-**Organisation:** DoubleU Innovation Centre  
-**Technical Implementation:** Jeremiah Segun Alayo  
+**Project home:** Doubleyou (frontier / hiring organisation; canonical repo and Pages)  
+**Lead developer:** Jeremiah Segun Alayo (JeremiahAlayo), hired by Doubleyou  
+**Technical co-creator:** CyberEdify — Jeremiah’s company; delivery company for the technical work  
 **Current Phase:** Review refinement; GitHub Pages preview
 
-**Repository:** https://github.com/Doubleyoucentre/dele-momodu-leadership-centre
+**Repository (canonical):** https://github.com/Doubleyoucentre/dele-momodu-leadership-centre  
+**CyberEdify:** https://github.com/CyberEdify
 
 **GitHub Pages:** https://doubleyoucentre.github.io/dele-momodu-leadership-centre/
 
@@ -73,7 +75,7 @@
 - Ten content pages and 434 local links/assets passed static export verification on the first Pages publish
 - After 10 September 2026 refinements: eight content pages (News/Events removed) and 341 local links/assets pass verification
 - Header Apply remains visible while scrolling and now closes an open mobile menu
-- README credits DoubleU Innovation Centre, Jeremiah Segun Alayo and CyberEdify
+- README credits Doubleyou as project home; JeremiahAlayo as hired lead developer; CyberEdify as technical co-creator / delivery company (no founder title on this repo)
 - Git Bash instructions are in `docs/GITHUB-PAGES.md`
 - Review refinement evidence: `docs/REVIEW-2026-09-10.md`
 

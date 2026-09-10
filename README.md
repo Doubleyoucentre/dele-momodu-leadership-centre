@@ -3,18 +3,24 @@
 Premium editorial website for the Dele Momodu Leadership Centre (DMLC), an intellectual and residential facility in Ibadan, Nigeria.
 
 - **Project:** Dele Momodu Leadership Centre Website
-- **Organisation:** DoubleU Innovation Centre
-- **Technical Implementation:** Jeremiah Segun Alayo
-- **Implementation support:** CyberEdify and participating team members
+- **Project home:** [Doubleyou](https://github.com/Doubleyoucentre) — frontier / hiring organisation; canonical repo and GitHub Pages
+- **Lead developer:** [Jeremiah Segun Alayo](https://github.com/JeremiahAlayo) — hired by Doubleyou to build the website
+- **Technical co-creator:** [CyberEdify](https://github.com/CyberEdify) — Jeremiah’s company; delivery company for the technical work
 - **Status:** Review refinement; GitHub Pages preview
 - **Review website:** https://doubleyoucentre.github.io/dele-momodu-leadership-centre/
-- **Repository:** https://github.com/Doubleyoucentre/dele-momodu-leadership-centre
+- **Repository (canonical):** https://github.com/Doubleyoucentre/dele-momodu-leadership-centre
 
 ## Project credits
 
-This DMLC website project is undertaken through **DoubleU Innovation Centre**. **Jeremiah Segun Alayo** ([JeremiahAlayo](https://github.com/JeremiahAlayo)) leads the technical implementation, with implementation support from his company **CyberEdify** and its participating team members. These credits describe contributions; they do not change project ownership or establish a separate client contract.
+**Doubleyou** ([Doubleyoucentre](https://github.com/Doubleyoucentre)) is the project home for DMLC: the frontier / hiring organisation, the canonical repository and the GitHub Pages host. Doubleyou hired the developer. Doubleyou is not the technical builder of this website.
 
-Individual team members should contribute through their own GitHub accounts. Record actual contributions in commits and pull requests; do not add invented co-authors. Public portfolio case studies should describe the person's or company's role accurately and use material approved for sharing.
+**Jeremiah Segun Alayo** ([JeremiahAlayo](https://github.com/JeremiahAlayo)) is the lead developer. He was hired by Doubleyou to implement DMLC.
+
+**CyberEdify** ([CyberEdify](https://github.com/CyberEdify)) is Jeremiah’s company and a technical co-creator on this work — the delivery company for engineering and implementation. CyberEdify is not a minor “support” credit; it is named for clear visibility alongside the lead developer.
+
+The public repository and Pages preview stay under Doubleyoucentre so DMLC has one source of truth. That hosting choice reflects Doubleyou as project home, not as the party that built the product.
+
+Contributors should use their own GitHub accounts for commits and pull requests. Do not invent co-authors. Portfolio case studies should describe each role accurately and use material approved for sharing.
 
 ## Technology stack
 
@@ -74,4 +80,4 @@ The first implementation includes the responsive homepage, supporting content ro
 - Approved social media links
 - Official domain
 
-This repository records implementation work without making claims beyond the stated organisational and technical roles.
+This repository is hosted under Doubleyoucentre as the canonical project home (Doubleyou as frontier / hiring organisation). Technical credit: JeremiahAlayo as lead developer; CyberEdify as technical co-creator and delivery company.

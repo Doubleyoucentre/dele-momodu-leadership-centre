@@ -58,7 +58,7 @@ The preferred review host is GitHub Pages. Run `npm run build:pages` to create t
 
 The GitHub Pages review is live at https://doubleyoucentre.github.io/dele-momodu-leadership-centre/. The earlier Sites preview remains available but is no longer the preferred review link. The official domain and permanent client hosting remain pending. A review preview is not the official launch. The Apply route provides official email/telephone residency enquiries; it does not collect or submit applicant data.
 
-See [the GitHub Pages guide](docs/GITHUB-PAGES.md) for setup and manual commands,.
+See [the GitHub Pages guide](docs/GITHUB-PAGES.md) for setup and manual commands.
 
 ## Official branding and contact
 

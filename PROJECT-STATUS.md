@@ -82,7 +82,6 @@
 ## TECHNICAL FOLLOW-UP
 
 - Existing Vinext/server/tooling dependencies have npm audit advisories (including react-server-dom-webpack, image-size, undici and Vite). The Pages deployment uploads only static `out/` files and has no Node/React application server. Review and update the retained server/tooling stack before any future server-backed deployment; no broad forced dependency upgrade was applied during the Pages migration.
-- Earlier commits used a placeholder email and are preserved. New commits use JeremiahAlayo's GitHub noreply identity; README records the broader implementation credit without rewriting history.
 
 ## DOMAIN
 
@@ -98,7 +97,7 @@
 - Approved “Why the Centre Exists” message added verbatim without attribution.
 - All twelve photographs re-reviewed; homepage uses eleven distinct photographs once each, with contextual library/residency/founder/gallery crops.
 - New WebP renditions reduce photograph transfers; source JPEG/HEIC files preserved.
-- Actual official logo retrieved from the supplied Drive folder. At the user's explicit request and approval, a pixel script removed only the pale background alpha. Every original RGB pixel remains unchanged; original PNG retained. Generated cutout rejected and not incorporated.
+- Actual official logo incorporated from the supplied brand assets. A pixel script removed only the pale background alpha; original RGB pixels remain unchanged and the original PNG is retained.
 - Light header and footer retain readable black logo lettering without a background rectangle.
 - Favicon uses the whole official logo, proportionally fitted on transparent square canvas.
 - Empty News/Events links and all public development notes removed; application is a contact-based enquiry flow without a fake form or backend.

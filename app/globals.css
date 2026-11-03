@@ -1,6 +1,8 @@
 @import 'tailwindcss';
 
 :root {
+  --font-manrope: 'Manrope', 'Manrope Fallback';
+  --font-cormorant: 'Cormorant Garamond', 'Cormorant Garamond Fallback';
   --forest: #0c2d26;
   --forest-deep: #071d19;
   --ivory: #f7f3eb;

@@ -64,17 +64,18 @@ The repository must exist under the approved organisation, and the account must 
 
 GitHub Free Pages requires a public repository. Keep private documents and credentials out of the source. Public review hosting is not password protected.
 
-## Future official domain and hosting
+## Official domain and hosting
 
 `NEXT_PUBLIC_SITE_URL` sets the full public website address. `NEXT_PUBLIC_BASE_PATH` sets the folder in the address; the Pages workflow obtains both from GitHub's Pages settings. A project preview uses `/dele-momodu-leadership-centre`; an official domain served from its root uses an empty base path.
 
-For a different static host, build with that host's final URL and upload the contents of `out/`:
+The official website is hosted on Truehost at https://delemomoducentre.org/. Use the root-domain build and verified ZIP packaging for that hosting account:
 
 ```bash
-NEXT_PUBLIC_BASE_PATH='' NEXT_PUBLIC_SITE_URL='https://YOUR-CONFIRMED-DOMAIN' npm run build:pages
+npm run build:hosting
+python scripts/package-hosting.py
 ```
 
-Replace the example with the confirmed domain. DNS configuration must be done with the domain owner's hosting instructions. Connecting a domain does not activate applications: the approved submission service, privacy information and requirements still need implementation and testing.
+Follow [the Truehost deployment guide](TRUEHOST-DEPLOYMENT.md) for uploading, file permissions, SSL and canonical redirects. Connecting the domain does not activate applications: the approved submission service, privacy information and requirements still need implementation and testing.
 
 ## References
 

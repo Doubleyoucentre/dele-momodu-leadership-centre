@@ -6,7 +6,8 @@ Premium editorial website for the Dele Momodu Leadership Centre (DMLC), an intel
 - **Project home:** [Doubleyou](https://github.com/Doubleyoucentre) — frontier / hiring organisation; canonical repo and GitHub Pages
 - **Lead developer:** [Jeremiah Segun Alayo](https://github.com/JeremiahAlayo) — hired by Doubleyou to build the website
 - **Technical co-creator:** [CyberEdify](https://github.com/CyberEdify) — Jeremiah’s company; delivery company for the technical work
-- **Status:** Review refinement; GitHub Pages preview
+- **Status:** Truehost production website
+- **Official website:** https://delemomoducentre.org/
 - **Review website:** https://doubleyoucentre.github.io/dele-momodu-leadership-centre/
 - **Repository (canonical):** https://github.com/Doubleyoucentre/dele-momodu-leadership-centre
 
@@ -50,13 +51,14 @@ npm run dev
 ```bash
 npm run build
 npm run lint
+npm run build:hosting
 ```
 
 ## Deployment
 
-The preferred review host is GitHub Pages. Run `npm run build:pages` to create the static website in `out/`. The GitHub Actions workflow builds and publishes updates pushed to `main` after Pages is enabled for the repository.
+The official website is hosted on the client-provided Truehost account at https://delemomoducentre.org/. Run `npm run build:hosting` to export the production website to `out/`, then `python scripts/package-hosting.py` to create a verified ZIP with standard Unix file permissions. See [the Truehost deployment guide](docs/TRUEHOST-DEPLOYMENT.md) for publication, SSL, redirects and verification.
 
-The GitHub Pages review is live at https://doubleyoucentre.github.io/dele-momodu-leadership-centre/. The earlier Sites preview remains available but is no longer the preferred review link. The official domain and permanent client hosting remain pending. A review preview is not the official launch. The Apply route provides official email/telephone residency enquiries; it does not collect or submit applicant data.
+GitHub Pages remains the separate review preview at https://doubleyoucentre.github.io/dele-momodu-leadership-centre/. Its workflow builds `npm run build:pages` on relevant updates to `main`, with the preview's project-folder URLs. The earlier Sites preview is retained for reference. The Apply route provides official email/telephone residency enquiries; it does not collect or submit applicant data.
 
 See [the GitHub Pages guide](docs/GITHUB-PAGES.md) for setup and manual commands.
 
@@ -78,6 +80,5 @@ The first implementation includes the responsive homepage, supporting content ro
 - Residency application service, dates, deadlines, fees and supporting-document rules
 - Confirmed event, news and library catalogue content
 - Approved social media links
-- Official domain
 
 This repository is hosted under Doubleyoucentre as the canonical project home (Doubleyou as frontier / hiring organisation). Technical credit: JeremiahAlayo as lead developer; CyberEdify as technical co-creator and delivery company.

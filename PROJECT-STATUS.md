@@ -4,7 +4,7 @@
 **Project home:** Doubleyou (frontier / hiring organisation; canonical repo and Pages)  
 **Lead developer:** Jeremiah Segun Alayo (JeremiahAlayo), hired by Doubleyou  
 **Technical co-creator:** CyberEdify — Jeremiah’s company; delivery company for the technical work  
-**Current Phase:** Review refinement; GitHub Pages preview
+**Current Phase:** Truehost production website
 
 **Repository (canonical):** https://github.com/Doubleyoucentre/dele-momodu-leadership-centre  
 **CyberEdify:** https://github.com/CyberEdify
@@ -12,7 +12,9 @@
 **GitHub Pages:** https://doubleyoucentre.github.io/dele-momodu-leadership-centre/
 
 **Earlier Review Preview:** https://dele-momodu-leadership-centre.tool-doubleu.chatgpt.site
-**Domain:** Pending
+**Official website:** https://delemomoducentre.org/
+
+**Hosting:** Client-provided Truehost static web hosting
 
 ## COMPLETED
 
@@ -37,7 +39,6 @@
 
 ## PENDING
 
-- Official domain and client hosting provision/connection
 - Live application backend integration
 - Future CMS integration for events and news
 
@@ -85,11 +86,14 @@
 
 ## DOMAIN
 
-- No domain purchased, transferred or configured
+- Official domain connected to the client-provided Truehost hosting.
+- Publicly trusted Let's Encrypt certificate covers the apex domain and `www`.
+- Existing static website exported at the domain root; GitHub Pages remains a separate review preview.
+- Repeatable production build, safe ZIP packaging and hosting rules are documented in `docs/TRUEHOST-DEPLOYMENT.md`.
 
 ## LAST UPDATE
 
-10 September 2026
+3 November 2026
 
 ## SEPTEMBER REVIEW REFINEMENTS
 

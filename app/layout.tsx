@@ -1,22 +1,10 @@
 import type { Metadata } from 'next';
-import { Cormorant_Garamond, Manrope } from 'next/font/google';
 import './globals.css';
 import { SiteHeader } from '@/components/SiteHeader';
 import { Footer } from '@/components/Footer';
 import { siteUrl, publicAsset } from '@/lib/site-config';
 
 export const dynamic = 'force-static';
-
-const manrope = Manrope({
-  variable: '--font-manrope',
-  subsets: ['latin'],
-});
-
-const cormorant = Cormorant_Garamond({
-  variable: '--font-cormorant',
-  subsets: ['latin'],
-  weight: ['400', '500', '600'],
-});
 
 export const metadata: Metadata = {
   metadataBase: new URL(`${siteUrl}/`),
@@ -47,7 +35,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${manrope.variable} ${cormorant.variable}`}>
+    <html lang="en">
+      <head>
+        <link rel="preload" href={publicAsset('/fonts/8760c4774489e4ba-s.p.woff2')} as="font" type="font/woff2" crossOrigin="anonymous" />
+        <link rel="preload" href={publicAsset('/fonts/7b89a4fd5e90ede0-s.p.woff2')} as="font" type="font/woff2" crossOrigin="anonymous" />
+        <link rel="stylesheet" href={publicAsset('/fonts/fonts.css')} />
+      </head>
       <body>
         <a className="skip-link" href="#main-content">Skip to content</a>
         <SiteHeader />

@@ -5,7 +5,7 @@ import { extname, resolve, sep } from 'node:path';
 const root = resolve('out');
 const base = process.env.NEXT_PUBLIC_BASE_PATH ?? '/dele-momodu-leadership-centre';
 const port = Number(process.env.PORT ?? 3100);
-const types = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.json': 'application/json', '.txt': 'text/plain', '.xml': 'application/xml', '.svg': 'image/svg+xml', '.jpg': 'image/jpeg', '.png': 'image/png', '.woff2': 'font/woff2', '.mp4': 'video/mp4' };
+const types = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.json': 'application/json', '.txt': 'text/plain', '.xml': 'application/xml', '.svg': 'image/svg+xml', '.jpg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp', '.woff2': 'font/woff2', '.mp4': 'video/mp4' };
 
 createServer(async (request, response) => {
   try {

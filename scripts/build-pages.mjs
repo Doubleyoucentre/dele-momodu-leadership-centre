@@ -14,3 +14,4 @@ const result = spawnSync(process.execPath, ['node_modules/next/dist/bin/next', '
 if (result.error) throw result.error;
 if (result.status !== 0) process.exit(result.status ?? 1);
 await import('./verify-pages.mjs');
+await import('./verify-gallery.mjs');

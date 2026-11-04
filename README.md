@@ -62,6 +62,10 @@ GitHub Pages remains the separate review preview at https://doubleyoucentre.gith
 
 See [the GitHub Pages guide](docs/GITHUB-PAGES.md) for setup and manual commands.
 
+## Photo archive
+
+The homepage includes the complete 38-photograph archive after The Founder, with exact supplied captions, responsive images, touch swiping, arrows and keyboard-accessible thumbnails. See [the gallery guide](docs/PHOTO-GALLERY.md) for source preservation, regeneration and verification.
+
 ## Official branding and contact
 
 - Email: dmlcconnect@gmail.com

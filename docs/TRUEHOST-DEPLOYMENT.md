@@ -38,4 +38,4 @@ Prepend the [hosting rules](hosting-rules.conf) to the account's existing `.htac
 - Check a missing route returns HTTP 404. Configure the exported `404.html` as the hosting error page if required.
 - Record the source commit, production build, release date and observed live result. A successful build alone does not prove deployment or SSL completion.
 
-The Apply page remains an enquiry flow using the approved public email/phone. The current release does not collect applications or send mail through SMTP. Additional photographs, captions and a carousel are separate content work.
+The Apply page remains an enquiry flow using the approved public email/phone. The current release does not collect applications or send mail through SMTP. The homepage photo archive is documented in [the gallery guide](PHOTO-GALLERY.md); its original delivery documents and JPEGs stay outside the public document root.

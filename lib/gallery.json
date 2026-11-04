@@ -1,0 +1,828 @@
+[
+  {
+    "id": 1,
+    "caption": "Aare Dr. Dele Momodu with Pastor E. A. Adeboye",
+    "width": 1510,
+    "height": 1536,
+    "originalSha256": "61a7cf61122f3092335296c1f32e0b82acabdeca650b23d4a84d98aac6ac1002",
+    "src": "/images/archive/01-61a7cf6112-1510.webp",
+    "sources": [
+      {
+        "src": "/images/archive/01-61a7cf6112-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/01-61a7cf6112-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/01-61a7cf6112-1510.webp",
+        "width": 1510
+      }
+    ],
+    "thumbnail": "/images/archive/01-61a7cf6112-thumb.webp"
+  },
+  {
+    "id": 2,
+    "caption": "Aare Dr. Dele Momodu with His Excellency, President Bola Ahmed Tinubu, GCFR",
+    "width": 1536,
+    "height": 1456,
+    "originalSha256": "fb2d95333846852ff5b59bda622d449abe4fa7ecd8f7a394f9b2f67a033e1af1",
+    "src": "/images/archive/02-fb2d953338-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/02-fb2d953338-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/02-fb2d953338-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/02-fb2d953338-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/02-fb2d953338-thumb.webp"
+  },
+  {
+    "id": 3,
+    "caption": "Aare Dr. Dele Momodu with His Excellency, President Bola Ahmed Tinubu, GCFR",
+    "width": 1536,
+    "height": 1098,
+    "originalSha256": "7689c1dda2b5a092b7e700b05b19ba53ae176c4dafa510dfef303fa9d85795af",
+    "src": "/images/archive/03-7689c1dda2-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/03-7689c1dda2-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/03-7689c1dda2-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/03-7689c1dda2-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/03-7689c1dda2-thumb.webp"
+  },
+  {
+    "id": 4,
+    "caption": "Aare Dr. Dele Momodu with His Excellency, President Bola Ahmed Tinubu, GCFR",
+    "width": 1536,
+    "height": 1024,
+    "originalSha256": "5c8a73fa6143445319a2b63ff37913ec10d881b86ae4aa79d5d020c32c8205e7",
+    "src": "/images/archive/04-5c8a73fa61-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/04-5c8a73fa61-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/04-5c8a73fa61-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/04-5c8a73fa61-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/04-5c8a73fa61-thumb.webp"
+  },
+  {
+    "id": 5,
+    "caption": "Aare Dr. Dele Momodu with His Excellency, President Bola Ahmed Tinubu, GCFR",
+    "width": 1536,
+    "height": 1289,
+    "originalSha256": "ada24be4331102d26c6433f780da6f4a9c1163d05aabf8f6fabe7488e7bc8524",
+    "src": "/images/archive/05-ada24be433-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/05-ada24be433-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/05-ada24be433-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/05-ada24be433-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/05-ada24be433-thumb.webp"
+  },
+  {
+    "id": 6,
+    "caption": "Aare Dr. Dele Momodu with His Excellency, President Bola Ahmed Tinubu, GCFR",
+    "width": 1536,
+    "height": 1532,
+    "originalSha256": "8a107a78858d1215fced04e2963d2ebd1fcf56db485ac9cbc25b1e5306472584",
+    "src": "/images/archive/06-8a107a7885-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/06-8a107a7885-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/06-8a107a7885-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/06-8a107a7885-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/06-8a107a7885-thumb.webp"
+  },
+  {
+    "id": 7,
+    "caption": "Aare Dr. Dele Momodu with General Ibrahim Badamasi Babangida, GCFR",
+    "width": 1536,
+    "height": 1097,
+    "originalSha256": "82540c2d45250a4d77cc734cc8027b87d0f1d1257e72162a33c76cca1c764b0d",
+    "src": "/images/archive/07-82540c2d45-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/07-82540c2d45-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/07-82540c2d45-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/07-82540c2d45-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/07-82540c2d45-thumb.webp"
+  },
+  {
+    "id": 8,
+    "caption": "Aare Dr. Dele Momodu with President Bill Clinton, former president of the united states of America",
+    "width": 1536,
+    "height": 1523,
+    "originalSha256": "e9c5a202e8eac96015f2d1fda3cbdeb4613109e2e9be2f9dd1c761a989ce9dc6",
+    "src": "/images/archive/08-e9c5a202e8-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/08-e9c5a202e8-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/08-e9c5a202e8-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/08-e9c5a202e8-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/08-e9c5a202e8-thumb.webp"
+  },
+  {
+    "id": 9,
+    "caption": "Aare Dr. Dele Momodu with His Excellency, John Dramani Mahama, president of the Republic of Ghana",
+    "width": 1152,
+    "height": 1536,
+    "originalSha256": "ef1be68fefb4b5abbc3c6e9c62c363966b1e2e2a58f618e936ddb49841c673ce",
+    "src": "/images/archive/09-ef1be68fef-1152.webp",
+    "sources": [
+      {
+        "src": "/images/archive/09-ef1be68fef-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/09-ef1be68fef-1152.webp",
+        "width": 1152
+      }
+    ],
+    "thumbnail": "/images/archive/09-ef1be68fef-thumb.webp"
+  },
+  {
+    "id": 10,
+    "caption": "Aare Dr. Dele Momodu with His Excellency Alhaji Atiku Abubakar, GCON",
+    "width": 1536,
+    "height": 1457,
+    "originalSha256": "35fb2f3feb528fe2a307f203309c315902b5b973260cf6d6d22efd13f2ca04f6",
+    "src": "/images/archive/10-35fb2f3feb-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/10-35fb2f3feb-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/10-35fb2f3feb-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/10-35fb2f3feb-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/10-35fb2f3feb-thumb.webp"
+  },
+  {
+    "id": 11,
+    "caption": "Aare Dr. Dele Momodu with Prof. Wole Soyinka",
+    "width": 1536,
+    "height": 1536,
+    "originalSha256": "02dda3ada8ddbe7eb8b791bada0f15371b879ea161ce12ea597577935c1669db",
+    "src": "/images/archive/11-02dda3ada8-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/11-02dda3ada8-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/11-02dda3ada8-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/11-02dda3ada8-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/11-02dda3ada8-thumb.webp"
+  },
+  {
+    "id": 12,
+    "caption": "Aare Dr. Dele Momodu with Rt. Hon. Chibuike Rotimi Amaechi, CON",
+    "width": 1152,
+    "height": 1536,
+    "originalSha256": "3f832143ca9b2dea638bf81be2ba5615c58aa9385bde1198d7482db6b0a96c75",
+    "src": "/images/archive/12-3f832143ca-1152.webp",
+    "sources": [
+      {
+        "src": "/images/archive/12-3f832143ca-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/12-3f832143ca-1152.webp",
+        "width": 1152
+      }
+    ],
+    "thumbnail": "/images/archive/12-3f832143ca-thumb.webp"
+  },
+  {
+    "id": 13,
+    "caption": "Aare Dr. Dele Momodu with His Excellency Alhaji Atiku Abubakar, GCON",
+    "width": 1536,
+    "height": 1536,
+    "originalSha256": "2d96fb634b3d581e3770fd266bfd6fc8c69a4de68a57776d87ccdbec3ef9ea27",
+    "src": "/images/archive/13-2d96fb634b-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/13-2d96fb634b-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/13-2d96fb634b-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/13-2d96fb634b-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/13-2d96fb634b-thumb.webp"
+  },
+  {
+    "id": 14,
+    "caption": "Aare Dr. Dele Momodu with Mr. Tony O. Elumelu, CFR",
+    "width": 1469,
+    "height": 1536,
+    "originalSha256": "7da305675f86ff8f6ab4b4e7df813a4cc03a84e9dc109d8990fea72c013ce7cc",
+    "src": "/images/archive/14-7da305675f-1469.webp",
+    "sources": [
+      {
+        "src": "/images/archive/14-7da305675f-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/14-7da305675f-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/14-7da305675f-1469.webp",
+        "width": 1469
+      }
+    ],
+    "thumbnail": "/images/archive/14-7da305675f-thumb.webp"
+  },
+  {
+    "id": 15,
+    "caption": "Aare Dr. Dele Momodu with His Excellency Alhaji Atiku Abubakar, GCON",
+    "width": 994,
+    "height": 1536,
+    "originalSha256": "5f341f83fbfd0ae6ee841a34165e9f1b05bbd4b621e729b35c497a453fb2755e",
+    "src": "/images/archive/15-5f341f83fb-994.webp",
+    "sources": [
+      {
+        "src": "/images/archive/15-5f341f83fb-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/15-5f341f83fb-994.webp",
+        "width": 994
+      }
+    ],
+    "thumbnail": "/images/archive/15-5f341f83fb-thumb.webp"
+  },
+  {
+    "id": 16,
+    "caption": "Aare Dr. Dele Momodu with His Excellency, John Dramani Mahama, president of the Republic of Ghana",
+    "width": 1536,
+    "height": 1476,
+    "originalSha256": "fad1fc62c2a23501917bc4ce9c7c9bae17ad3ed2d451e5c708fc50d6db453517",
+    "src": "/images/archive/16-fad1fc62c2-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/16-fad1fc62c2-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/16-fad1fc62c2-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/16-fad1fc62c2-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/16-fad1fc62c2-thumb.webp"
+  },
+  {
+    "id": 17,
+    "caption": "Aare Dr. Dele Momodu with His Excellency, General Muhammadu Buhari, GCFR (Late)",
+    "width": 1339,
+    "height": 1536,
+    "originalSha256": "2744dc14a4885005e8efe7fe5f1cafe06a0beb43269390bb27992f93ffb2b66a",
+    "src": "/images/archive/17-2744dc14a4-1339.webp",
+    "sources": [
+      {
+        "src": "/images/archive/17-2744dc14a4-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/17-2744dc14a4-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/17-2744dc14a4-1339.webp",
+        "width": 1339
+      }
+    ],
+    "thumbnail": "/images/archive/17-2744dc14a4-thumb.webp"
+  },
+  {
+    "id": 18,
+    "caption": "Aare Dr. Dele Momodu with His Excellency, General Muhammadu Buhari, GCFR (Late)",
+    "width": 1319,
+    "height": 1536,
+    "originalSha256": "2dd7b8cc97052e8f0ad4718e683acecdc1738cac634306725ccec714a9807531",
+    "src": "/images/archive/18-2dd7b8cc97-1319.webp",
+    "sources": [
+      {
+        "src": "/images/archive/18-2dd7b8cc97-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/18-2dd7b8cc97-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/18-2dd7b8cc97-1319.webp",
+        "width": 1319
+      }
+    ],
+    "thumbnail": "/images/archive/18-2dd7b8cc97-thumb.webp"
+  },
+  {
+    "id": 19,
+    "caption": "Aare Dr. Dele Momodu with His Excellency, General Muhammadu Buhari, GCFR (Late)",
+    "width": 1196,
+    "height": 1536,
+    "originalSha256": "19fe0c47bd08dc0c5f6d7cbe50157876f813ce8ae4bc6ccf24798eba2aaae675",
+    "src": "/images/archive/19-19fe0c47bd-1196.webp",
+    "sources": [
+      {
+        "src": "/images/archive/19-19fe0c47bd-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/19-19fe0c47bd-1196.webp",
+        "width": 1196
+      }
+    ],
+    "thumbnail": "/images/archive/19-19fe0c47bd-thumb.webp"
+  },
+  {
+    "id": 20,
+    "caption": "Aare Dr. Dele Momodu with His Excellency Dr. Goodluck Ebele Jonathan, GCFR",
+    "width": 1197,
+    "height": 1536,
+    "originalSha256": "99eeada787320a1287c2bf2aff18e3f310a5f75e8bd4f58ded1c9215f7667795",
+    "src": "/images/archive/20-99eeada787-1197.webp",
+    "sources": [
+      {
+        "src": "/images/archive/20-99eeada787-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/20-99eeada787-1197.webp",
+        "width": 1197
+      }
+    ],
+    "thumbnail": "/images/archive/20-99eeada787-thumb.webp"
+  },
+  {
+    "id": 21,
+    "caption": "Aare Dr Dele Momodu with Businessman Mr. Ibrahim Mahama, Dr. Akinwumi A. Adesina, CON, His Excellency, John Dramani Mahama (President of the Republic of Ghana)",
+    "width": 1229,
+    "height": 1536,
+    "originalSha256": "303bcb4780a3d8964b1f4a01af062445a338e83d8e1892fda167623cf961ac1c",
+    "src": "/images/archive/21-303bcb4780-1229.webp",
+    "sources": [
+      {
+        "src": "/images/archive/21-303bcb4780-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/21-303bcb4780-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/21-303bcb4780-1229.webp",
+        "width": 1229
+      }
+    ],
+    "thumbnail": "/images/archive/21-303bcb4780-thumb.webp"
+  },
+  {
+    "id": 22,
+    "caption": "Aare Dr Dele Momodu with The Late His Imperial Majesty Oba Okunade Sijuwade, Olubuse II, Oòni of Ife",
+    "width": 1536,
+    "height": 1394,
+    "originalSha256": "eee0b89259eb3cbcf401687338cfd3b3de44f1e2f10dc2bd3b73dab2845ca19f",
+    "src": "/images/archive/22-eee0b89259-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/22-eee0b89259-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/22-eee0b89259-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/22-eee0b89259-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/22-eee0b89259-thumb.webp"
+  },
+  {
+    "id": 23,
+    "caption": "Aare Dr. Dele Momodu with The Late Prof. Dora Nkem Akunyili, OFR",
+    "width": 1097,
+    "height": 1536,
+    "originalSha256": "27975a45d8d08d1b88f241ad54b7fb5f9f7ffe9c8885d7a2c3337e67ac8d5ca1",
+    "src": "/images/archive/23-27975a45d8-1097.webp",
+    "sources": [
+      {
+        "src": "/images/archive/23-27975a45d8-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/23-27975a45d8-1097.webp",
+        "width": 1097
+      }
+    ],
+    "thumbnail": "/images/archive/23-27975a45d8-thumb.webp"
+  },
+  {
+    "id": 24,
+    "caption": "Aare Dr. Dele Momodu with Alhaji Abdul Samad Rabiu, CFR, CON",
+    "width": 1536,
+    "height": 1029,
+    "originalSha256": "7cc43f197cb2a8d55c41a08a62c65979d20dad099cc8813bf8aa8b60477c9425",
+    "src": "/images/archive/24-7cc43f197c-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/24-7cc43f197c-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/24-7cc43f197c-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/24-7cc43f197c-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/24-7cc43f197c-thumb.webp"
+  },
+  {
+    "id": 25,
+    "caption": "Aare Dr. Dele Momodu with His Royal Majesty Oba Rilwan Babatunde Osuolale Aremu Akiolu I, Oba of Lagos",
+    "width": 1257,
+    "height": 1536,
+    "originalSha256": "a149d5f36d2a9707eb6ed8b24170ce9385dfebe8768da2453cdc903da4856d04",
+    "src": "/images/archive/25-a149d5f36d-1257.webp",
+    "sources": [
+      {
+        "src": "/images/archive/25-a149d5f36d-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/25-a149d5f36d-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/25-a149d5f36d-1257.webp",
+        "width": 1257
+      }
+    ],
+    "thumbnail": "/images/archive/25-a149d5f36d-thumb.webp"
+  },
+  {
+    "id": 26,
+    "caption": "Aare Dr. Dele Momodu with The Late His Imperial Majesty Oba Okunade Sijuwade, Olubuse II, Oòni of Ife and The Late His Imperial Majesty Oba Olayiwola Adeyemi III, Alaafin of Oyo",
+    "width": 1065,
+    "height": 1536,
+    "originalSha256": "e5c5040f8bf78d860af5c6fcfb6f358d14bdac033316344de4d74e3b291560a3",
+    "src": "/images/archive/26-e5c5040f8b-1065.webp",
+    "sources": [
+      {
+        "src": "/images/archive/26-e5c5040f8b-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/26-e5c5040f8b-1065.webp",
+        "width": 1065
+      }
+    ],
+    "thumbnail": "/images/archive/26-e5c5040f8b-thumb.webp"
+  },
+  {
+    "id": 27,
+    "caption": "Aare Dr. Dele Momodu with The Late Pa Chief Akintola Williams, CFR, CBE",
+    "width": 1536,
+    "height": 1025,
+    "originalSha256": "ac3a58c083ea6fa194cf9e0c8b7d89d4b4c3db32005b5e1b85ebdc69fe8c48c8",
+    "src": "/images/archive/27-ac3a58c083-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/27-ac3a58c083-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/27-ac3a58c083-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/27-ac3a58c083-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/27-ac3a58c083-thumb.webp"
+  },
+  {
+    "id": 28,
+    "caption": "Aare Dr. Dele Momodu with Chief Bisi Akande, CFR and Mr. Simon Kolawole (Founder of Cable Newspaper Ltd)",
+    "width": 1152,
+    "height": 1536,
+    "originalSha256": "3054f561e02a3186e63ff3b160dd6e1b2ebd415edd7185f24474d52c890c4c96",
+    "src": "/images/archive/28-3054f561e0-1152.webp",
+    "sources": [
+      {
+        "src": "/images/archive/28-3054f561e0-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/28-3054f561e0-1152.webp",
+        "width": 1152
+      }
+    ],
+    "thumbnail": "/images/archive/28-3054f561e0-thumb.webp"
+  },
+  {
+    "id": 29,
+    "caption": "Aare Dr. Dele Momodu with His Excellency, John Dramani Mahama, President of the Republic of Ghana",
+    "width": 1536,
+    "height": 1118,
+    "originalSha256": "ee8f57b78b2c6c36aafb67fb7bafde7813f82f13587a7f7c3c77ac2596d619b3",
+    "src": "/images/archive/29-ee8f57b78b-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/29-ee8f57b78b-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/29-ee8f57b78b-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/29-ee8f57b78b-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/29-ee8f57b78b-thumb.webp"
+  },
+  {
+    "id": 30,
+    "caption": "Aare Dr. Dele Momodu with his lovely wife, Chief Mrs. Mobolaji Momodu and The Late Chief M.K.O. Abiola, GCFR",
+    "width": 1536,
+    "height": 1069,
+    "originalSha256": "c74877efd15d8d68970bbd052751cfd186adad9db7cee8017f4f51624f5e1a7a",
+    "src": "/images/archive/30-c74877efd1-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/30-c74877efd1-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/30-c74877efd1-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/30-c74877efd1-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/30-c74877efd1-thumb.webp"
+  },
+  {
+    "id": 31,
+    "caption": "Aare Dr. Dele Momodu with renowned Nigerian Juju musician, Sir Shina Peters, Bisi Olatilo, (Veteran Nigerian broadcaster), and Kunle (Journalist, publisher and media execute)",
+    "width": 1536,
+    "height": 1092,
+    "originalSha256": "b5ee4738d4fe1f90ea761c0102cc1bb5894d65c801b8db0f0a0137ebfa0f05a0",
+    "src": "/images/archive/31-b5ee4738d4-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/31-b5ee4738d4-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/31-b5ee4738d4-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/31-b5ee4738d4-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/31-b5ee4738d4-thumb.webp"
+  },
+  {
+    "id": 32,
+    "caption": "Aare Dr. Dele Momodu with His Excellency, John Dramani Mahama, President of the Republic of Ghana",
+    "width": 1228,
+    "height": 1536,
+    "originalSha256": "2dbe8d7a3f33546e58ce42fb7962cf27f4983e98938680a0e3d1176768b1ec6b",
+    "src": "/images/archive/32-2dbe8d7a3f-1228.webp",
+    "sources": [
+      {
+        "src": "/images/archive/32-2dbe8d7a3f-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/32-2dbe8d7a3f-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/32-2dbe8d7a3f-1228.webp",
+        "width": 1228
+      }
+    ],
+    "thumbnail": "/images/archive/32-2dbe8d7a3f-thumb.webp"
+  },
+  {
+    "id": 33,
+    "caption": "Aare Dr. Dele Momodu with The late Zimbabwean prime minister, Morgan Tsvangirai",
+    "width": 864,
+    "height": 1536,
+    "originalSha256": "ddc43202603dd647de254f287165777d7d1aec7d977caa3d10eca5350cae7b1b",
+    "src": "/images/archive/33-ddc4320260-864.webp",
+    "sources": [
+      {
+        "src": "/images/archive/33-ddc4320260-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/33-ddc4320260-864.webp",
+        "width": 864
+      }
+    ],
+    "thumbnail": "/images/archive/33-ddc4320260-thumb.webp"
+  },
+  {
+    "id": 34,
+    "caption": "Aare Dr. Dele Momodu with the former president of Ghana, John Agyekun kufuor, his wife, late former first lady of Ghana, Mrs Theresa Kufuor",
+    "width": 864,
+    "height": 1536,
+    "originalSha256": "029a7aeb4375cdcb60c3e28ce48e5d605c25e5c8e43f409f183f1ec057401ac0",
+    "src": "/images/archive/34-029a7aeb43-864.webp",
+    "sources": [
+      {
+        "src": "/images/archive/34-029a7aeb43-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/34-029a7aeb43-864.webp",
+        "width": 864
+      }
+    ],
+    "thumbnail": "/images/archive/34-029a7aeb43-thumb.webp"
+  },
+  {
+    "id": 35,
+    "caption": "Aare Dr. Dele Momodu with Jerry John Rawlings, the late former president of Ghana",
+    "width": 864,
+    "height": 1536,
+    "originalSha256": "2b8e76abbc992371c09a68678866e393fe90dba698a28b27f59c9ff2cfa41fdd",
+    "src": "/images/archive/35-2b8e76abbc-864.webp",
+    "sources": [
+      {
+        "src": "/images/archive/35-2b8e76abbc-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/35-2b8e76abbc-864.webp",
+        "width": 864
+      }
+    ],
+    "thumbnail": "/images/archive/35-2b8e76abbc-thumb.webp"
+  },
+  {
+    "id": 36,
+    "caption": "Aare Dr. Dele Momodu with His Excellency, John Dramani Mahama, President of the Republic of Ghana",
+    "width": 864,
+    "height": 1536,
+    "originalSha256": "d3544fbf430c8178ebdad96d11adaa3b55aa83a37b6c6604b9cf7150afac1eef",
+    "src": "/images/archive/36-d3544fbf43-864.webp",
+    "sources": [
+      {
+        "src": "/images/archive/36-d3544fbf43-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/36-d3544fbf43-864.webp",
+        "width": 864
+      }
+    ],
+    "thumbnail": "/images/archive/36-d3544fbf43-thumb.webp"
+  },
+  {
+    "id": 37,
+    "caption": "Aare Dr. Dele Momodu with Senator Orji, former governor of Abia state and Sonny Okosun, late iconic Nigerian musician",
+    "width": 1536,
+    "height": 1536,
+    "originalSha256": "1e06352f2e14f7b257d6c65c144a141561cb9dd96c190f2f10ce1392a84a3f29",
+    "src": "/images/archive/37-1e06352f2e-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/37-1e06352f2e-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/37-1e06352f2e-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/37-1e06352f2e-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/37-1e06352f2e-thumb.webp"
+  },
+  {
+    "id": 38,
+    "caption": "Aare Dr. Dele Momodu with Babajide Sanwo-Olu, the Governor of Lagos State and Oba Abdulrasheed Adewale Akanbi (Telu 1), the Oluwo of Iwoland, Osun State",
+    "width": 1536,
+    "height": 1152,
+    "originalSha256": "3a9bcd4c2ac74350a98fcf54a986cd2c9c3913d287f6b6fba3bb49cd9880579b",
+    "src": "/images/archive/38-3a9bcd4c2a-1536.webp",
+    "sources": [
+      {
+        "src": "/images/archive/38-3a9bcd4c2a-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/images/archive/38-3a9bcd4c2a-1200.webp",
+        "width": 1200
+      },
+      {
+        "src": "/images/archive/38-3a9bcd4c2a-1536.webp",
+        "width": 1536
+      }
+    ],
+    "thumbnail": "/images/archive/38-3a9bcd4c2a-thumb.webp"
+  }
+]

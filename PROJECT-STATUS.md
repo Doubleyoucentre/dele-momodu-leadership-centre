@@ -107,3 +107,7 @@
 - Empty News/Events links and all public development notes removed; application is a contact-based enquiry flow without a fake form or backend.
 - Reduced-motion support retained, with visible server-rendered content before animation enhancement.
 - Validation and publication evidence: see docs/REVIEW-2026-09-10.md.
+
+## Complete photo archive
+
+The homepage archive follows The Founder and retains all 38 supplied photographs and exact captions. Responsive WebP images, native swipe scrolling, arrows, keyboard thumbnail controls and production export checks are included. The original Centre photo section is preserved. Source documents and original images are retained separately from the deployable website.

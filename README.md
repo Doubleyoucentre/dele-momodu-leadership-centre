@@ -62,10 +62,16 @@ GitHub Pages remains the separate review preview at https://doubleyoucentre.gith
 
 See [the GitHub Pages guide](docs/GITHUB-PAGES.md) for setup and manual commands.
 
+## Photo archive
+
+The homepage includes the complete 38-photograph archive after The Founder, with exact supplied captions, responsive images, touch swiping, arrows and keyboard-accessible thumbnails. See [the gallery guide](docs/PHOTO-GALLERY.md) for source preservation, regeneration and verification.
+
 ## Official branding and contact
 
 - Email: dmlcconnect@gmail.com
 - Phone: +234 810 696 2985
+- LinkedIn: https://www.linkedin.com/company/dele-momodu-leadership-centre/
+- Instagram: https://www.instagram.com/dmlcconnect/
 - Logo: supplied Drive original preserved in `public/images/brand/dmlc-official.png`; transparent copy changes only background alpha, not logo RGB pixels.
 - Run `node scripts/prepare-logo.mjs` to reproduce the transparent copy. `node scripts/prepare-web-images.mjs` produces smaller web photographs while retaining originals.
 
@@ -79,6 +85,5 @@ The first implementation includes the responsive homepage, supporting content ro
 - Confirmed contact person
 - Residency application service, dates, deadlines, fees and supporting-document rules
 - Confirmed event, news and library catalogue content
-- Approved social media links
 
 This repository is hosted under Doubleyoucentre as the canonical project home (Doubleyou as frontier / hiring organisation). Technical credit: JeremiahAlayo as lead developer; CyberEdify as technical co-creator and delivery company.

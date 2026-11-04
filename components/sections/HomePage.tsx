@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Reveal } from '@/components/Reveal';
 import { Arrow } from '@/components/ui/Arrow';
 import { ButtonLink, TextLink } from '@/components/ui/ButtonLink';
+import { PhotoGallery } from '@/components/PhotoGallery';
 
 const programmes = [
   { number: '01', title: 'Resident Scholar Programme', text: 'A focused one-week residency for selected scholars working on substantial research, writing or creative projects.', image: '/images/programmes/private-study.jpg', href: '/residencies' },
@@ -79,6 +80,11 @@ export function HomePage() {
       <section className="section-pad overflow-hidden bg-[#071d19] text-white"><div className="site-container grid items-center gap-14 lg:grid-cols-12">
         <Reveal image className="relative aspect-[4/5] lg:col-span-5 lg:ml-[10%]"><Image src="/images/founder/dele-momodu-portrait-at-centre.jpg" alt="Portrait of Chief Dele Momodu displayed at the Centre" fill sizes="(max-width: 1024px) 100vw, 40vw" className="object-cover object-left" /></Reveal>
         <Reveal className="lg:col-span-6 lg:col-start-7" delay={100}><p className="eyebrow text-[#dcc691]">The founder</p><h2 className="founder-title font-display mt-8 text-[clamp(3.6rem,6vw,6.2rem)] leading-[.94] tracking-[-.04em]">A life in stories.<br />A legacy in ideas.</h2><p className="mt-8 max-w-xl text-base leading-8 text-white/68">Chief Dele Momodu, journalist, publisher and founder of Ovation International, established the Centre as a legacy project and an investment in the intellectual capacity of Nigerians and Africans.</p><div className="mt-9"><TextLink href="/about#founder">Read the founder’s story</TextLink></div></Reveal>
+      </div></section>
+
+      <section id="gallery" aria-labelledby="gallery-heading" className="section-pad border-b border-[#0c2d26]/15 bg-[#f7f3eb]"><div className="site-container">
+        <div className="grid gap-8 lg:grid-cols-12 lg:items-end"><div className="lg:col-span-7"><p className="eyebrow text-[#0c2d26]">From the archive</p><h2 id="gallery-heading" className="font-display mt-7 text-[clamp(3.5rem,7vw,6.5rem)] leading-[.94] tracking-[-.035em] text-[#0c2d26]">A life in pictures.</h2></div><p className="max-w-lg text-base leading-8 text-[#666a65] lg:col-span-4 lg:col-start-9">Explore photographs of Dele Momodu with figures from public life, culture and business.</p></div>
+        <PhotoGallery />
       </div></section>
 
       <section className="section-pad bg-[#f7f3eb]"><div className="site-container">
